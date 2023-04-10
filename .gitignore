@@ -4,6 +4,7 @@
 
 dataset
 docs
+catboost_info
 
 ### dotenv ###
 .env
